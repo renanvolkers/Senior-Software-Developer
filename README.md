@@ -7,3 +7,16 @@ Working at Prodesp in Software Development of projects related to the health are
 Direct mission with the population making the work more valuable.
 
 Over the years, what you've noticed is that experience helps a lot, but the main difference in a work environment is the person having "GRIT" to overcome and solve problems.
+
+## 💻 Technologies & Tools
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/angular%20-%23DD0031.svg?&style=for-the-badge&logo=angular&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github" height="25"/>
+<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/dotnet-net%23239120.svg?color=5C2D91&style=for-the-badge&logo=.net&logoColor=white" height="25"/>
+<img src="https://img.shields.io/badge/Microsoft%20Azure-0089D6?logo=microsoft-azure&logoColor=white&style=for-the-badge" height="25"/>
+<img src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white" height="25"/>
+
+</p>
